@@ -1,0 +1,146 @@
+{
+  "method": "Local editorial king-of-the-hill tournament; these are self-assessments, not make.fun judge verdicts or external model calls.",
+  "rubric": "Each criterion is scored from 1 (weak) to 10 (strong). Totals guide comparisons; surprise, clarity, economy, and a concrete human reaction break close decisions.",
+  "candidates": [
+    {
+      "id": "C01",
+      "subject": "stapler",
+      "origin": "original",
+      "text": "I asked my stapler to hold my life together. It said it could do twenty sheets, not thirty-seven years. I bought the heavy-duty model.",
+      "scores": {"surprise": 7, "specificity": 8, "relatability": 9, "kicker_strength": 8}
+    },
+    {
+      "id": "C02",
+      "subject": "umbrella",
+      "origin": "original",
+      "text": "I asked my umbrella to keep a low profile. It opened on the bus and introduced me to everyone. I got off two stops early.",
+      "scores": {"surprise": 7, "specificity": 8, "relatability": 8, "kicker_strength": 7}
+    },
+    {
+      "id": "C03",
+      "subject": "coffee maker",
+      "origin": "original",
+      "text": "I asked my coffee maker to help me get through Monday. It handed me a passport and forty dollars. I asked if we could afford to bring the dog.",
+      "scores": {"surprise": 9, "specificity": 9, "relatability": 6, "kicker_strength": 8}
+    },
+    {
+      "id": "C04",
+      "subject": "houseplant",
+      "origin": "original",
+      "text": "I asked my houseplant to show a little gratitude. It grew toward my neighbor's window. I closed the blinds and called it quality time.",
+      "scores": {"surprise": 8, "specificity": 8, "relatability": 9, "kicker_strength": 9}
+    },
+    {
+      "id": "C05",
+      "subject": "electric toothbrush",
+      "origin": "original",
+      "text": "I asked my electric toothbrush for a gentler setting. It sent me a video titled 'Brushing Without Your Mum.' I watched the whole thing.",
+      "scores": {"surprise": 7, "specificity": 9, "relatability": 8, "kicker_strength": 7}
+    },
+    {
+      "id": "C06",
+      "subject": "pressure cooker",
+      "origin": "original",
+      "text": "I asked my pressure cooker how it handles stress. It said, 'I let off steam. You send thirteen voice notes.' I deleted the group chat.",
+      "scores": {"surprise": 7, "specificity": 9, "relatability": 9, "kicker_strength": 8}
+    },
+    {
+      "id": "C07",
+      "subject": "reusable water bottle",
+      "origin": "original",
+      "text": "I asked my reusable water bottle why it cost forty dollars. It said it came with a personality. I carried it to a meeting and waited.",
+      "scores": {"surprise": 8, "specificity": 9, "relatability": 8, "kicker_strength": 8}
+    },
+    {
+      "id": "C08",
+      "subject": "suitcase",
+      "origin": "original",
+      "text": "I asked my suitcase why it wouldn't close. It said, 'You are not going to read six novels in three days.' I took out the underwear.",
+      "scores": {"surprise": 9, "specificity": 9, "relatability": 9, "kicker_strength": 10}
+    },
+    {
+      "id": "C09",
+      "subject": "phone autocorrect",
+      "origin": "user-provided seed (a), included verbatim",
+      "text": "My phone's autocorrect changed 'I love you' to 'I owe you' — my girlfriend replied 'knew it' before I could explain the typo.",
+      "scores": {"surprise": 7, "specificity": 7, "relatability": 9, "kicker_strength": 8}
+    },
+    {
+      "id": "C10",
+      "subject": "printer",
+      "origin": "user-provided seed (b), included verbatim",
+      "text": "My printer only works when I threaten it out loud, which is why my will now includes a clause about the printer.",
+      "scores": {"surprise": 8, "specificity": 8, "relatability": 9, "kicker_strength": 8}
+    },
+    {
+      "id": "C11",
+      "subject": "dishwasher",
+      "origin": "original",
+      "text": "I asked my dishwasher to stop judging how I load it. It printed a seating chart for six plates and put me at the kids' table.",
+      "scores": {"surprise": 8, "specificity": 9, "relatability": 8, "kicker_strength": 8}
+    },
+    {
+      "id": "C12",
+      "subject": "label maker",
+      "origin": "original",
+      "text": "I asked my label maker to organize the house. It printed 'GUEST' for my side of the bed. My wife laminated it.",
+      "scores": {"surprise": 8, "specificity": 9, "relatability": 9, "kicker_strength": 9}
+    },
+    {
+      "id": "C13",
+      "subject": "desk fan",
+      "origin": "original",
+      "text": "I told my desk fan I felt ignored. It turned away halfway through. I waited for it to come back before finishing the story.",
+      "scores": {"surprise": 8, "specificity": 9, "relatability": 10, "kicker_strength": 9}
+    },
+    {
+      "id": "C14",
+      "subject": "TV remote",
+      "origin": "original",
+      "text": "I asked my TV remote to help me find a connection. It paired with the neighbor's television. I turned the volume up so they'd know I was happy for it.",
+      "scores": {"surprise": 8, "specificity": 8, "relatability": 8, "kicker_strength": 8}
+    },
+    {
+      "id": "C15",
+      "subject": "kettle",
+      "origin": "original",
+      "text": "I asked my kettle why it screams every morning. It said, 'You get to leave.' I started taking it to work.",
+      "scores": {"surprise": 8, "specificity": 8, "relatability": 9, "kicker_strength": 8}
+    },
+    {
+      "id": "C16",
+      "subject": "doormat",
+      "origin": "original",
+      "text": "I told my doormat I felt taken for granted. It said, 'You get to go inside.' I brought it in and stood outside to think.",
+      "scores": {"surprise": 8, "specificity": 8, "relatability": 8, "kicker_strength": 8}
+    }
+  ],
+  "matches": [
+    {"incumbent": "C01", "challenger": "C02", "winner": "C01", "reason": "The heavy-duty purchase exposes recognizable denial; getting off a bus is a more predictable embarrassment response."},
+    {"incumbent": "C01", "challenger": "C03", "winner": "C03", "reason": "Equal totals, but the passport, forty dollars, and dog produce a stranger escalation than the familiar life-together metaphor."},
+    {"incumbent": "C03", "challenger": "C04", "winner": "C04", "reason": "Actual plant behavior grounds the absurdity; the narrator's controlling response lands more cleanly than the coffee maker's unexplained escape supplies."},
+    {"incumbent": "C04", "challenger": "C05", "winner": "C04", "reason": "Closing the blinds creates a sharper character reveal than watching an instructional video."},
+    {"incumbent": "C04", "challenger": "C06", "winner": "C04", "reason": "The plant's visual betrayal and the narrator's petty punishment are less familiar than letting-off-steam wordplay."},
+    {"incumbent": "C04", "challenger": "C07", "winner": "C04", "reason": "The plant has a clearer action and consequence; waiting for a bottle's personality is a quieter anticlimax."},
+    {"incumbent": "C04", "challenger": "C08", "winner": "C08", "reason": "Six novels in three days makes the criticism concrete; sacrificing underwear instead of a book adds an independent second surprise and self-own."},
+    {"incumbent": "C08", "challenger": "C09", "winner": "C08", "reason": "The seed's love/owe substitution is familiar and its explanation trails the laugh; the suitcase ends directly on the absurd human choice."},
+    {"incumbent": "C08", "challenger": "C10", "winner": "C08", "reason": "The printer seed has an excellent inheritance escalation, but an unspecified clause is less visual than discarding underwear to preserve a doomed reading plan."},
+    {"incumbent": "C08", "challenger": "C11", "winner": "C08", "reason": "The suitcase's refusal has a physical cause and its owner supplies the kicker; the dishwasher needs a more invented seating-chart mechanism."},
+    {"incumbent": "C08", "challenger": "C12", "winner": "C08", "reason": "Close: lamination is an economical human reaction, but a wife rejecting her husband is a more familiar destination than choosing six novels over clean underwear."},
+    {"incumbent": "C08", "challenger": "C13", "winner": "C08", "reason": "Closest match: the oscillating fan is highly relatable, but waiting follows its mechanical motion; removing underwear reverses the suitcase's advice in a less expected way."},
+    {"incumbent": "C08", "challenger": "C14", "winner": "C08", "reason": "The remote extends a familiar pairing-as-romance analogy; the suitcase needs fewer words and ends on a stronger physical detail."},
+    {"incumbent": "C08", "challenger": "C15", "winner": "C08", "reason": "The kettle has a sympathetic ending, but the suitcase's self-sabotage is a sharper laugh than an act of kindness."},
+    {"incumbent": "C08", "challenger": "C16", "winner": "C08", "reason": "The doormat's role reversal is gently absurd; the suitcase keeps a more recognizable motive and a more specific final image."}
+  ],
+  "champion": "C08",
+  "champion_consecutive_wins": 9,
+  "selection_reason": "A mundane packing problem, a brutally specific prediction, and a human who protects the fantasy instead of the underwear: three clear beats with the most concrete word saved for last.",
+  "revision_after_first_run": {
+    "candidate": "C08",
+    "before_characters": 131,
+    "change": "Replaced 'You are not going to' with 'You won't'; the first run was read back before editing main.py a second time.",
+    "final_text": "I asked my suitcase why it wouldn't close. It said, 'You won't read six novels in three days.' I took out the underwear.",
+    "after_characters": 120,
+    "reason": "Eleven fewer characters; a more conversational rebuke; the concrete human kicker is unchanged."
+  }
+}
