@@ -6,6 +6,6 @@ codex session: 01a20fc5-0b09-7702-ad8f-c53eeac9f44e (Codex 0.80.0 + gpt-6.1-sol 
 title: Six Novels Over Underwear
 joke (120 chars): I asked my suitcase why it wouldn't close. It said, 'You won't read six novels in three days.' I took out the underwear.
 submitted: 2026-11-25 ~06:22 WIB (receipt 2026-11-24T23:22:00Z)
-status: submitted, checks pending at receipt (grading queue behind); blind round 1 cutoff 2026-11-25T00:45:05Z (07:45 WIB), result due 2026-12-17
+status: submitted; owner view 06:36 WIB: ALL checks pass (intake + transcripts, incl. repo_readme, repo_about, thinking_reproduces 135/135, transcripts_run_record); dev grading still queued, no score yet — blind round 1 cutoff 2026-11-25T00:45:05Z (07:45 WIB), result due 2026-12-17
 kit check: 16 passed, 0 failed, 5 skipped, 3 checked at submission
 bundle: one-liner-marathon-bundle.tar.gz sha256 c1d5273cab734d19e34d1b3a4d94717aeea1d4740e7be45c94820ff9098b3e12
